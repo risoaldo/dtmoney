@@ -14,7 +14,7 @@
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/diego3g/rocketredis.git
-$ cd rocketredis
+git clone https://github.com/risoaldo/dtmoney.git
+$ cd dtmoney
 $ yarn install
-$ yarn dev
+$ yarn start
