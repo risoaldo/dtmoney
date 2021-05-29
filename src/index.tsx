@@ -13,7 +13,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          tittle: 'Festa',
+          tittle: 'Viagem',
           type: 'withdraw',
           category: 'Lazer',
           amount: 500,
@@ -24,15 +24,7 @@ createServer({
           tittle: 'Frrela',
           type: 'deposit',
           category: 'Dev',
-          amount: 5500,
-          createdAt: new Date()
-        },
-        {
-          id: 3,
-          tittle: 'Frrela',
-          type: 'deposit',
-          category: 'Dev',
-          amount: 5500,
+          amount: 1000,
           createdAt: new Date()
         }
       ]
