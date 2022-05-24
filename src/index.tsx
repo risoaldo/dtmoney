@@ -26,6 +26,14 @@ createServer({
           category: 'Dev',
           amount: 1000,
           createdAt: new Date()
+        },
+        {
+          id: 3,
+          tittle: 'Frrela',
+          type: 'deposit',
+          category: 'Dev',
+          amount: 1000,
+          createdAt: new Date()
         }
       ]
     })
